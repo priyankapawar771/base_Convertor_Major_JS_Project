@@ -1,6 +1,7 @@
 body{
     margin:0px;
     padding:0px;
+    background-image: url(https://www.thethinkingcap.com.au/wp-content/uploads/2021/01/Should-I-do-Standard-Maths-or-Advanced-Maths_-1.jpg);
 }
 .converter-body{
     width:600px;
@@ -11,6 +12,7 @@ body{
     left:50%;
     transform: translate(-50%,-50%);
     border:2px solid black;
+    border-radius: 10px;
 }
 .converter-title{
     text-align: center;
@@ -28,6 +30,7 @@ input{
     border:2px solid black;
     color:black;
     height:30px;
+    border-radius: 10px;
 }
 span{
     font-size: 30px;
@@ -41,6 +44,7 @@ span{
     height:30px;
     margin-left: 65px;
     border:2px solid black;
+    border-radius: 10px;
 }
 #resultType{
     margin-left: 82.5px;
